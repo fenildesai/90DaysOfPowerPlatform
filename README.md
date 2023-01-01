@@ -7,6 +7,8 @@ Get in touch via Twitter - https://twitter.com/fenildesai or via Linkedin - http
 
 Day 1: Introduction to the Power Platform
 - [Overview of the Power Platform and its components (Power Apps, Power Automate, Power BI)](https://github.com/fenildesai/90DaysOfPowerPlatform/blob/33eeebe4590d9b596c87b317a097bc5eb9d443bb/Introduction.md)
+    - Describe the main features and capabilities of each component
+    - Explain how the components can be used together to build custom solutions
 - Setting up a development environment
 
 Day 2: Creating a Power App
