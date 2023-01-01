@@ -1,6 +1,8 @@
 # 90DaysOfPowerPlatform
 Welcome to the 90DaysOfPowerPlatform project! This project aims to provide a comprehensive introduction to the Microsoft Power Platform, a collection of low-code/no-code tools for building custom business applications and automating business processes.
 
+Get in touch via Twitter - https://twitter.com/fenildesai or via Linkedin - https://www.linkedin.com/in/fenildesai
+
 ## Topics
 
 The project covers a range of topics, including:
